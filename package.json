@@ -1,0 +1,24 @@
+{
+  "name": "ajs_eslint_angry-code",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Angry-code/ajs_ESLint_angry-code#readme",
+  "bugs": {
+    "url": "https://github.com/Angry-code/ajs_ESLint_angry-code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angry-code/ajs_ESLint_angry-code.git"
+  },
+  "license": "ISC",
+  "author": "Angry-code",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1"
+  }
+}
